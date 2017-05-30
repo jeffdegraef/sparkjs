@@ -1,0 +1,11 @@
+{
+  "name": "sparkjs",
+  "version": "1.0.0",
+  "description": "sparkjs bot using sparkbot cisco framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jeff De Graef (Dimension Data)",
+  "license": "ISC"
+}
